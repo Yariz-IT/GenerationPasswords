@@ -23,6 +23,10 @@ body {
     height: 100vh;
 }
 
+.text {
+    margin-bottom: 10px;
+}
+
 .password {
     padding: 8px;
     margin: 8px;
